@@ -16,4 +16,5 @@ int main(){
 	Persona santana ("Santana");
 	santana.setInstrumento("Guitarra");
 	santana.imprimir(cout);
+	cout << "prueba"<<endl;
 }
