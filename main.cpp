@@ -17,5 +17,5 @@ int main(){
 	santana.setInstrumento("Guitarra");
 	santana.imprimir(cout);
 	cout << "prueba"<<endl;
-	cout<< "hola mundo"<< endl;
+	cout<< "puto el que lo lea"<< endl;
 }
