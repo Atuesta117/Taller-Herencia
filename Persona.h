@@ -5,8 +5,13 @@
 using namespace std;
 class Persona{
     protected:
-        std::string nombre;
+        string nombre;
+	    int edad;
     public:
         Persona(string nombre );
+        ~Persona();
+        virtual void imprimir(ostream& os);
+        string getNombre();
+        void setEdad(int edad);
 };
 #endif // _PERSONA_H_
