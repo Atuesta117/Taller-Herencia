@@ -1,3 +1,25 @@
+/**
+* @file Espectador.cpp
+* @brief Implementación de la clase Espectador que hereda de Persona.
+*
+* @details
+* Este archivo contiene la implementación de la clase Espectador. Un espectador es una persona 
+* que puede indicar si le gusta o no una banda. Esta clase permite establecer esta preferencia 
+* y mostrarla junto con el nombre del espectador.
+*
+* @project Herencia y Polimorfismo
+* @course Fundamentos de Programación Orientada a Objetos (FPOO)
+* @institution Universidad del Valle
+*
+* @authors
+* - Juan Jose Atuesta - atuesta.juan@correounivalle.edu.co
+* - David Alejandro Garcia - david.grueso@correounivalle.edu.co
+* - Sergio Garcia Ramos - sergio.garcia.ramos@correounivalle.edu.co
+* - Paula Mariana Murillo - murillo.paula@correounivalle.edu.co
+*
+* @date Abril 2025
+*/
+
 #include "Espectador.h"
 #include <iostream>
 #include <string>

@@ -1,3 +1,25 @@
+/**
+* @file Musico.cpp
+* @brief Implementación de la clase Musico, que hereda de Persona.
+*
+* @details
+* Este archivo contiene la implementación de la clase Musico. Un músico es una persona que
+* puede tocar un instrumento y tiene una cantidad específica de instrumentos que sabe tocar.
+* La clase permite establecer el instrumento, la cantidad de instrumentos y mostrar esta información.
+*
+* @project Gestión de Personas y Roles
+* @course Fundamentos de Programación Orientada a Objetos (FPOO)
+* @institution Universidad del Valle
+*
+* @authors
+* - Juan Jose Atuesta - atuesta.juan@correounivalle.edu.co
+* - David Alejandro Garcia - david.grueso@correounivalle.edu.co
+* - Sergio Garcia Ramos - sergio.garcia.ramos@correounivalle.edu.co
+* - Paula Mariana Murillo - murillo.paula@correounivalle.edu.co
+*
+* @date Abril 2025
+*/
+
 #include <iostream>
 #include <string>
 #include "Musico.h"

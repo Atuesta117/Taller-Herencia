@@ -6,6 +6,10 @@
 #include "Espectador.h"
 using namespace std;
 // g++ main.cpp Persona.cpp Musico.cpp Cantante.cpp Espectador.cpp -o prog
+/*
+Autor: Juan Jose Atuesta, Sergio Garcia Ramos, Paula Mariana Huertas, David Alejandro Garcia 
+Correo: atuesta.juan@correounivalle.edu.co - sergio.garcia.ramos@correounivalle.edu.co - murillo.paula@correounivalle.edu.co - david.grueso@correounivalle.edu.co
+*/
 int main(){
 	//1. Instanciar un objeto con ""
 	Persona persona("Juan");// se intancia un objeto persona
