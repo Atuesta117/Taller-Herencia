@@ -17,7 +17,7 @@
 * - Sergio Garcia Ramos - sergio.garcia.ramos@correounivalle.edu.co
 * - Paula Mariana Murillo - murillo.paula@correounivalle.edu.co
 *
-* @date Abril 2025
+* @date Mayo 2025
 */
 
 #include "Cantante.h"

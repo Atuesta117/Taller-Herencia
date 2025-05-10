@@ -1,3 +1,25 @@
+/**
+* @file main.cpp
+* @brief Función principal para probar la jerarquía de clases Persona, Musico, Cantante y Espectador.
+*
+* @details
+* Este archivo contiene la función `main`, que instancia objetos de diferentes clases derivadas de `Persona`
+* para demostrar el uso de la herencia, polimorfismo, sobreescritura de métodos, y manejo de excepciones.
+* Se ejemplifica cómo cada clase maneja sus propios atributos y métodos especializados.
+*
+* @project Gestión de Personas y Roles en un escenario musical
+* @course Fundamentos de Programación Orientada a Objetos (FPOO)
+* @institution Universidad del Valle
+*
+* @authors
+* - Juan Jose Atuesta - atuesta.juan@correounivalle.edu.co
+* - David Alejandro Garcia - david.grueso@correounivalle.edu.co
+* - Sergio Garcia Ramos - sergio.garcia.ramos@correounivalle.edu.co
+* - Paula Mariana Murillo - murillo.paula@correounivalle.edu.co
+*
+* @date Mayo 2025
+*/
+
 #include "Persona.h"
 #include <iostream>
 #include <string>
